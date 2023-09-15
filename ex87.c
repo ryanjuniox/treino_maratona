@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Flíper*/
+/*Flíper - NEPS ACADEMY*/
 
 int main(){
 

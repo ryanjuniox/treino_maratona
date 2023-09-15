@@ -1,4 +1,4 @@
-/*Faça um programa que leia dois números inteiros digitados pelo teclado e imprima a soma deles.*/
+/*Faça um programa que leia dois números inteiros digitados pelo teclado e imprima a soma deles. - NEPS ACADEMY*/
 
 #include <stdio.h>
 #include <stdlib.h>
